@@ -1,0 +1,3 @@
+I love AWS and azure
+I wnat to check how the track the file using Git ADD command
+
