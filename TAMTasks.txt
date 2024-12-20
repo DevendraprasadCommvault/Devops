@@ -17,3 +17,6 @@ Recommend best practices, performance optimizations, and enhancements to maximiz
 
 5) Please feel free to reach out to me for anything you need—I’m looking forward to collaborating with you and ensuring your success with our solutions.
 
+6) We will work together to make sure the backup environmnet is taken care properly
+7) We will Sit together and understand the environmnet to know will commvault solutions are being usd and also look for any potential enancements
+
